@@ -45,7 +45,7 @@ This software was officially registered and later used for research at the Pavlo
 
 - [IEEE, 2019 — Automatic Analysis of Medical Images Based on Fractal Methods](https://doi.org/10.1109/ITQMIS.2019.8928378)
 - [IEEE, 2019 — Application of Box-Counting for Medical Image Evaluation](https://doi.org/10.1109/ITQMIS.2019.8928375)
-- [APJCP, 2018 — MRI Segmentation in Dynamic Programming Mode](https://doi.org/10.22034/APJCP.2018.19.10.2771)
+- [APJCP, 2018 — Automatic Segmentation of MRI Images in Dynamic Programming Mode](https://doi.org/10.22034/APJCP.2018.19.10.2771)
 - [REJR, 2018 — APPLICATION OF FRACTAL ANALYSIS FOR ESTIMATION OF STRUCTURAL CHANGES OF TISSUES ON MRI IMAGES (RU)](http://rejr.ru/volume/31/8.3.pdf)
 
 ---
